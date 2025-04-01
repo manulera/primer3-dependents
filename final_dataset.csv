@@ -1,0 +1,162 @@
+repo,license,license_type,is_package
+IHGGM-Aachen/primertool,MIT License,MIT,False
+simonmichau/primertool,MIT License,MIT,False
+hillstub/yeastriction,MIT License,MIT,False
+Lyn4ever29/pipy_server,,None,False
+AKilbo/techincal2,,None,False
+LeeShuaiyu/yxy_autoprimer,MIT License,MIT,False
+Tropini-lab/PUPpy,GNU General Public License v3.0,GPL,False
+swu1019lab/qPrimer,"BSD 3-Clause ""New"" or ""Revised"" License",BSD,False
+pamonlan/ExonSurferWeb,MIT License,MIT,False
+dr-joe-wirth/primerForge,Apache License 2.0,Apache,True
+jonas-fuchs/varVAMP_in_silico_analysis,GNU General Public License v3.0,GPL,False
+mcgilldinglab/MATES,MIT License,MIT,False
+RajaGiddi/GeneSys-AI,,None,False
+tools4plant-omics/PABLOG,GNU General Public License v3.0,GPL,False
+TUM-CBR/pymol-plugins-support,GNU General Public License v3.0,GPL,False
+aki2274/KOnezumi-AID,MIT License,MIT,True
+Ruturaj4/package-management-project-pypi,MIT License,MIT,False
+grunwaldlab/krisp,Other,Other,True
+MaroEmad21/GeneXpert,MIT License,MIT,False
+Jiozhang/Sequence-homology-evaluation,MIT License,MIT,False
+ThallitonSilva/Desenha_Primers,,None,False
+Jiozhang/SEEKER-encoding-and-decoding,MIT License,MIT,False
+TUM-CBR/cbr-tools-extra,GNU General Public License v2.0,GPL,False
+yeastgenome/SGDBackendDocker,MIT License,MIT,False
+DamonFinch/Primer3Primerdesign,,None,False
+SegawaTenta/DNAMarkMaker-CUI,,None,False
+simonvs/Probe-Designer,GNU General Public License v3.0,GPL,False
+pessoa-am/Primer3-Streamlit,GNU Affero General Public License v3.0,GPL,False
+henrithomas/smithy,Other,Other,False
+SemiQuant/PrimerJinn,,None,True
+ConnexSci/ml,,None,False
+mvsalmon/prymer,,None,False
+CrisRu95/ExonSurfer,Other,Other,False
+jonas-fuchs/varVAMP,GNU General Public License v3.0,GPL,True
+htgt/Targeton-Designer,,None,False
+lgtm-migrator/primer3-py-plus,,None,False
+wangpanqiao/primer3-py-plus,,None,False
+aresti/primalscheme2,,None,False
+HealthVivo/primer3-py-plus,,None,False
+1383385/primer3-py-plus,,None,False
+csyml/primer3-py-plus,,None,False
+thestephencasper/GRIT,,None,False
+rmardian/intein-based-circuits,,None,False
+ljm176/MutationMaker,GNU General Public License v3.0,GPL,False
+Runsheng/primervcf,GNU General Public License v2.0,GPL,True
+antonkulaga/genotations,,None,True
+rseng/rsepedia-analysis,,None,False
+Benoitdw/SNPrimer,MIT License,MIT,False
+sanjaynagi/AnoPrimer,MIT License,MIT,True
+Runsheng/primerdiffer,GNU General Public License v2.0,GPL,True
+igem-toronto/primer-discovery,MIT License,MIT,False
+benz0id/mb_prime,,None,False
+broadinstitute/adapt,MIT License,MIT,True
+rmardian/xcalibr,,None,False
+imteazs/IntegrationSiteSeq,,None,False
+diekhans/PrimerS-JuJu,GNU General Public License v2.0,GPL,False
+awc789/Primer_C-VAE,,None,False
+tibbdc/AutoESD,,None,False
+sambhav2mishra/primer-design_using-primer3-py,,None,False
+Eric-Fowler/TeamPip-PyTorch,,None,False
+imteazs/SeqToPrimers,GNU General Public License v3.0,GPL,False
+czbiohub-sf/GenoPrimer,"BSD 3-Clause ""New"" or ""Revised"" License",BSD,False
+ShuXingYu94/Primer-picker,MIT License,MIT,False
+sammeyer2017/GRATIOSA,,None,False
+ra100/Mutation_Maker,GNU General Public License v3.0,GPL,False
+imteazs/primerDesignPipe,GNU General Public License v3.0,GPL,False
+polinchen98/sequence-finder,,None,True
+GradinaruLab/useqfish_probedesign,,None,False
+pontushojer/CheckConstruct,,None,False
+ahs2202/biobookshelf,GNU General Public License v3.0,GPL,True
+henrithomas/smithy-app,MIT License,MIT,False
+jamesengleback/mxn,,None,False
+tymaxjones/Smith-Lab-Multiplex,,None,False
+lmdu/krait2,MIT License,MIT,False
+gofflab/HCRProbeDesign,MIT License,MIT,False
+LondonBiofoundry/basicsynbio,"BSD 3-Clause ""New"" or ""Revised"" License",BSD,True
+sky123martin/PhageOne,,None,False
+jvrana/aqbuildtools,,None,False
+yeastgenome/SGDAllianceData,MIT License,MIT,False
+Jinfo-dev/jinfo,MIT License,MIT,False
+tommyfuu/BioFoundry,MIT License,MIT,False
+SEA-PHAGES/pde_utils,GNU General Public License v3.0,GPL,False
+jvrana/TridentPlus,,None,False
+jvrana/DASi-DNA-Design,GNU General Public License v3.0,GPL,False
+jvrana/primer3-py-plus,,None,True
+Zulko/Web_tools,,None,False
+Gab0/straintables,MIT License,MIT,True
+tao-bioinfo/OligoDimer,,None,True
+jamesmtuck/DORIS,MIT License,MIT,False
+RMichae1/gene_fusion,MIT License,MIT,False
+lmdu/krait,GNU Affero General Public License v3.0,GPL,False
+watronfire/CViSB_Workshop_TCells,,None,False
+aakechin/NGS-PrimerPlex,GNU General Public License v3.0,GPL,False
+peterhabib/Pharmosome_Web,MIT License,MIT,False
+smolkelab/promoter_design,MIT License,MIT,False
+Lattice-Automation/synbio,MIT License,MIT,True
+MirkoLedda/polyoligo,"BSD 2-Clause ""Simplified"" License",BSD,False
+zhangtaolab/Chorus2,MIT License,MIT,False
+frba/fasta2primer3,GNU General Public License v3.0,GPL,False
+jvrana/jdna,,None,True
+WMRGL/Bespoke_primers,,None,False
+wpwupingwp/OGU,GNU Affero General Public License v3.0,GPL,True
+phenopolis/phenopolis_backend_pheno4j,,None,False
+glebkuznetsov/mascpcr,GNU General Public License v2.0,GPL,False
+phenopolis/phenopolis,MIT License,MIT,False
+FordyceLab/kyle2,,None,False
+niyogilab/scripts,,None,False
+cfljam/socker,,None,False
+libnano/libnano,GNU General Public License v2.0,GPL,True
+NHS-NGS/GeL2MDT,Other,Other,False
+yeastgenome/SGDBackend-Nex2,MIT License,MIT,False
+vollbrechtlab/primer-server,,None,False
+phiweger/prime,,None,False
+KingsPM/zippy,MIT License,MIT,False
+joshquick/primal,,None,False
+vollbrechtlab/primer-server-rest-api,MIT License,MIT,False
+blthree/TAIRscripts,,None,False
+sbultmann/scytools,,None,False
+wuv21/haystack,,None,False
+shapirolab/clineage,,None,False
+PlummerLab/2015-05-05-AvrRvi5_candidate_transcript_validation,MIT License,MIT,False
+rafecooks/dictyko,"BSD 3-Clause ""New"" or ""Revised"" License",BSD,False
+churchlab/optimizing-complex-phenotypes,MIT License,MIT,False
+viapath/zippy,MIT License,MIT,False
+FordyceLab/adam2,MIT License,MIT,False
+alaindomissy/pycrispr,,None,False
+ExpressionAnalysis/STAR-SEQR,Other,Other,True
+blthree/TDNA_primer_design,,None,False
+PlantandFoodResearch/pcr_marker_design,GNU General Public License v3.0,GPL,False
+Wyss/mascpcr,GNU General Public License v2.0,GPL,False
+vollbrechtlab/primerDAFT,MIT License,MIT,False
+jonversusjon/mtkv3,,None,False
+pablovargasmejia/SIREN,GNU General Public License v3.0,GPL,True
+globuzzz2000/ddPrimer,,None,False
+mulbagalamaq/Evo-CRISPR_v1,,None,False
+ark2224/consolidate_topdeletions,,None,False
+manulera/OpenCloning_backend,MIT License,MIT,True
+ryandikdan/COD_FISH,Other,Other,False
+Talesfs91/PUPpy,GNU General Public License v3.0,GPL,False
+MrGhost-Aymen/Bioinformatics-pipeline,,None,False
+anumularaviteja1812/Dimensionality-Reduction,,None,False
+linfeng-wang/TOAST,MIT License,MIT,True
+Adv20202/PrimeSpecPCR,MIT License,MIT,False
+jaannawaz/Sequence-Search-Tool,,None,False
+artic-network/primalscheme3,GNU General Public License v3.0,GPL,True
+Jumitti/LabMaster,MIT License,MIT,False
+kielmarj/illacceptanything,MIT License,MIT,False
+LeonLenzo/skills,,None,False
+yihuanlin/Project-Cichlids,,None,False
+LeonLenzo/ll.cert,,None,False
+converged-computing/jobspec-database,MIT License,MIT,False
+incobiosystem/dimer-analysis,,None,False
+alphavector/all,Other,Other,False
+ayaanhossain/oligopool,GNU General Public License v3.0,GPL,True
+hiyama341/streptocad,MIT License,MIT,False
+melobio/PrimeGen,,None,False
+ShaneSchroeder/primer-designer-back-end,,None,False
+ArianeMora/docko,MIT License,MIT,True
+ArianeMora/oligopoolio,MIT License,MIT,True
+Zinthrow/BioinUtils,MIT License,MIT,False
+Aidas-Vys/MAnTA-cloud,,None,False
