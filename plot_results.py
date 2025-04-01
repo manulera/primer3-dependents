@@ -17,6 +17,11 @@ print(
 )
 
 plt.figure(figsize=(10, 6))
+# Replace empty license_type with "No license" only for empty strings
+df.loc[df["license_type"].isna(), "license_type"] = "No license"
+
+print(df)
+
 license_counts = df["license_type"].value_counts()
 license_counts_packages = df[df["is_package"]]["license_type"].value_counts()
 
